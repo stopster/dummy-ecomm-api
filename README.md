@@ -1,2 +1,2 @@
 # dummy-ecomm-api
-Images are from Amazon.com
+Images and other infromation are from Amazon.com
