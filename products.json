@@ -1,0 +1,19 @@
+[
+  { "title": "Samsung Galaxy S3 Mini GT-i8200", "description": "5 MP camera with led flash Geo-tagging, touch focus, face and smile detection, panorama<br />GSM 850/900/1800/1900; HSDPA 900/1900/2100<br />Card slot micro SD, up to 32 GB<br />Super AMOLED capacitive touchscreen, 16M colors 480 x 800 pixels, 4.0 inches (~233 ppi pixel density)<br />Android 4.2.21.2 GHz dual-core Cortex-A9", "price": "127.24", "image": "1005001.jpg" },
+
+  { "title": "Motorola Moto G (2nd generation)", "description": "5' 720p HD display<br />Front-ported stereo speakers<br />Qualcomm Snapdragon 400 processor with 1.2GHz quad-core CPU<br />Android 4.4, KitKat with guaranteed upgrade<br />All-day 2,070 mAh battery, Corning Gorilla Glass 3, water-resistant splash guard", "price": "179.99", "image": "1005002.jpg" },
+
+  { "title": "Apple iPhone 5 16GB (White)", "description": "New iPhone<br />Size 16 GB", "price": "393.00", "image": "1005003.jpg" },
+
+  { "title": "Nokia Lumia 520 RM-915 8GB", "description": "2G: GSM 850 / 900 / 1800 / 1900, 3G/HSPA+: 850 / 1900 / 2100<br />4-inch IPS LCD Capacitive Multi-Touchscreen w/ Scratch-Resistant Glass<br />Microsoft Windows 8 (upgradeable to WP8 Black), Dual-Core 1 GHz Processor, Chipset: Qualcomm MSM8227<br />5 Megapixel Camera (2592 x 1936 pixels) w/ Autofocus, 1/4'' Sensor Size, Geo-Tagging + Video<br />Internal Memory: 8GB, 512 MB RAM + microSD Slot Expandable up to 64GB", "price": "69.00", "image": "1005004.jpg" },
+
+  { "title": "Samsung Galaxy S5 G900H 16GB", "description": "2G: GSM 850 / 900 / 1800 / 1900 3G: HSDPA 850 / 900 / 1900 / 2100<br />5.1' Super AMOLED Capacitive Multi-Touchscreen w/ Protective Corning Gorilla Glass 3<br />Android v4.4.2 (KitKat), Octa Core: Quad-Core 1.9 GHz Cortex-A15 + a Quad-Core 1.3 GHz Cortex-A7 Processor, Chipset: Exynos 5 Octa 5422, Mali-T628 MP6 Graphics<br />16 Megapixel Rear Camera (5312 x 2988 pixels) w/ Phase Detection, Autofocus, LED Flash + Front-Facing 2 Megapixel Camera<br />Internal Memory: 16GB storage, 2GB RAM + microSD Slot Expandable up to 128GB", "price": "444.45", "image": "1005005.jpg" },
+
+  { "title": "Lenovo S8 S898T 5.3 Inch IPS", "description": "Brand & Model: Lenovo S898T<br />Operating System: Android 4. CPU: MTK6589 Quad Core 1.5GHz<br />RAM: 1GB, ROM: 8GB. TF card up to 32GB (not included)<br />Camera: Dual cameras. Front: 5.0MP, Back: 13.0MP (with LED flash)", "price": "111.70", "image": "1005006.jpg" },
+
+  { "title": "BlackBerry Passport", "description": "3450 mAh battery, up to 30 hours of mixed use<br />Touch-enabled QWERTY keyboard<br />Wide Touchscreen 4.5inch Display<br />More ways to access Apps with the Amazon AppStore<br />BlackBerry Blend - the power of BlackBerry on your computer or tablet", "price": "593.69", "image": "1005007.jpg" },
+
+  { "title": "Apple iPhone 5s, Gold 16GB ", "description": "4.0-inch Retina display<br />A7 chip with M7 motion coprocessor<br />Touch ID fingerprint sensor<br />8MP iSight camera with True Tone flash and 1080p HD video recording", "price": "595.00", "image": "1005008.jpg" },
+
+  { "title": "Apple iPhone 5, Black 16GB ", "description": "4-inch Retina display<br />A6 chip, iOS 6 and iCloud<br />8.0MP iSight camera<br />All-new EarPods and improved audio", "price": "399.99", "image": "1005009.jpg" }
+]
